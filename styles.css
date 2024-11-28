@@ -85,7 +85,7 @@ h2 {
 .img-header {
   width: 100vw;
   height: 80vh;
-  object-fit: cover;
+  object-fit: fill;
   display: block;
   margin: 0 auto;
   margin-bottom: 5%;
