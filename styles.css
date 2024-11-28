@@ -273,7 +273,7 @@ textarea::placeholder,input::placeholder{
 /* lg */
 @media (max-width: 1300px) {
 header {
-  height: 25rem;}
+  height: 35rem;}
 
   #menu {
     grid-template-columns: 1fr; /* Switch to single column layout */
